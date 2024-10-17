@@ -109,7 +109,6 @@
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83030431/1918-09-12/ed-1/seq-11/</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1919-09-25/ed-1/seq-16/</id>
@@ -1766,17 +1765,14 @@
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1934-02-18/ed-1/seq-82/</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn87065527/1940-12-06/ed-2/seq-31/</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1949-05-01/ed-1/seq-111</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1963-11-17/ed-1/seq-135/</id>
@@ -1792,17 +1788,14 @@
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/45043535/1897-01-01/ed-1/seq-1/</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn84021917/1947-04-25/ed-1/seq-8/</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83045487/1916-11-28/ed-1/seq-5/</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1954-04-11/ed-1/seq-128/</id>
@@ -1912,12 +1905,10 @@
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83045487/1914-06-17/ed-2/seq-3/</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83045487/1913-10-14/ed-1/seq-22/</id>
         <rel>0</rel>
-        <text></text>
         </result>
     </results>
   </topic>
@@ -5921,22 +5912,18 @@
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1920-03-14/ed-1/seq-56/</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn85053181/1909-12-17/ed-1/seq-2/</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn84026749/1923-08-21/ed-1/seq-1/</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1961-01-23/ed-1/seq-7/</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn86066870/1904-01-04/ed-1/seq-1</id>
@@ -6003,7 +5990,6 @@
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83030273/1920-08-15/ed-1/seq-42/</id>
         <rel>0</rel>
-        <text></text>
         </result>
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn86086770/1876-12-13/ed-1/seq-1/</id>
@@ -6018,7 +6004,6 @@
       <result>
         <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1901-12-22/ed-1/seq-24/</id>
         <rel>0</rel>
-        <text></text>
         </result>
     </results>
   </topic>
